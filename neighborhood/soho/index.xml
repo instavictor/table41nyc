@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soho on Table41NYC</title>
+    <link>https://www.table41nyc.com/neighborhood/soho/</link>
+    <description>Recent content in Soho on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Sep 2018 15:08:14 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/neighborhood/soho/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Le Relais De Venise L&#39;entrecote</title>
+      <link>https://www.table41nyc.com/posts/french/le-relais-de-venise-lentrecote/</link>
+      <pubDate>Sat, 15 Sep 2018 15:08:14 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/french/le-relais-de-venise-lentrecote/</guid>
+      <description>This was pretty good and cheap except for the WATER. For tap water, they charged $5.50 wtf?
+The steak was pretty good though as well as the sauce.</description>
+    </item>
+    
+    <item>
+      <title>Le Coucou</title>
+      <link>https://www.table41nyc.com/posts/french/le-coucou/</link>
+      <pubDate>Sat, 15 Sep 2018 15:05:08 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/french/le-coucou/</guid>
+      <description>Amazing place. The baked alaska and veal tongue were really good. It&amp;rsquo;s also not too expensive.</description>
+    </item>
+    
+    <item>
+      <title>Viva La Crepe</title>
+      <link>https://www.table41nyc.com/posts/desserts/viva-la-crepe/</link>
+      <pubDate>Sun, 09 Sep 2018 23:19:37 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/desserts/viva-la-crepe/</guid>
+      <description>Crepes were whatever. Why?</description>
+    </item>
+    
+    <item>
+      <title>Burger &amp; Barrel</title>
+      <link>https://www.table41nyc.com/posts/burgers/burger-and-barrel/</link>
+      <pubDate>Sun, 09 Sep 2018 22:09:21 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/burgers/burger-and-barrel/</guid>
+      <description>Got their special $68 white truffle burger. Was good, but not worth it. Don&amp;rsquo;t spend $68 for white truffles when they&amp;rsquo;ve practically lose their scent on the plane over here.</description>
+    </item>
+    
+  </channel>
+</rss>

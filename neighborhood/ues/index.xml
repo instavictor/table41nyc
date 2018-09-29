@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ues on Table41NYC</title>
+    <link>https://www.table41nyc.com/neighborhood/ues/</link>
+    <description>Recent content in Ues on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Sep 2018 21:19:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/neighborhood/ues/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flora Bar</title>
+      <link>https://www.table41nyc.com/posts/seafood/flora-bar/</link>
+      <pubDate>Sun, 16 Sep 2018 21:19:08 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/seafood/flora-bar/</guid>
+      <description>Seafood centric. Ambience is good, but the food is eh.</description>
+    </item>
+    
+    <item>
+      <title>Tal Bagels</title>
+      <link>https://www.table41nyc.com/posts/sandwiches/tal-bagels/</link>
+      <pubDate>Sun, 16 Sep 2018 21:12:09 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/sandwiches/tal-bagels/</guid>
+      <description>Believe it or not, their pastrami was actually better than Pastrami Queen.</description>
+    </item>
+    
+    <item>
+      <title>Pastrami Queen</title>
+      <link>https://www.table41nyc.com/posts/sandwiches/pastrami-queen/</link>
+      <pubDate>Sun, 16 Sep 2018 21:05:25 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/sandwiches/pastrami-queen/</guid>
+      <description>Pretty good pastrami. It&amp;rsquo;s no Katz, and it&amp;rsquo;s not filling, but it was good. It&amp;rsquo;s thin sliced meats.</description>
+    </item>
+    
+    <item>
+      <title>Grazie</title>
+      <link>https://www.table41nyc.com/posts/italian/grazie/</link>
+      <pubDate>Sun, 16 Sep 2018 13:49:23 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/italian/grazie/</guid>
+      <description>I only ate here because it was close to the MET. I don&amp;rsquo;t remember what I had, but I&amp;rsquo;ve only written that it was good.</description>
+    </item>
+    
+  </channel>
+</rss>

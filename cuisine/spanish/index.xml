@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spanish on Table41NYC</title>
+    <link>https://www.table41nyc.com/cuisine/spanish/</link>
+    <description>Recent content in Spanish on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Sep 2018 21:44:25 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/cuisine/spanish/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Casa Mono</title>
+      <link>https://www.table41nyc.com/posts/spanish/casa-mono/</link>
+      <pubDate>Sun, 16 Sep 2018 21:44:25 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/spanish/casa-mono/</guid>
+      <description>Stumbled into here while drunk. I recall it was pretty good, but I don&amp;rsquo;t remember what was ordered.
+Had no idea this had Michelin stars either. When I walked in, it was all empty.</description>
+    </item>
+    
+    <item>
+      <title>Cafe Riazor</title>
+      <link>https://www.table41nyc.com/posts/spanish/cafe-riazor/</link>
+      <pubDate>Sun, 16 Sep 2018 21:42:26 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/spanish/cafe-riazor/</guid>
+      <description>Spanish stuff. Cheap decent lunch.</description>
+    </item>
+    
+  </channel>
+</rss>

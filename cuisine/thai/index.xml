@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thai on Table41NYC</title>
+    <link>https://www.table41nyc.com/cuisine/thai/</link>
+    <description>Recent content in Thai on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Sep 2018 21:48:22 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/cuisine/thai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thai Sliders</title>
+      <link>https://www.table41nyc.com/posts/thai/thai-sliders/</link>
+      <pubDate>Sun, 16 Sep 2018 21:48:22 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/thai/thai-sliders/</guid>
+      <description>Good tom yum noodle soup for lunch. Actually pretty good overall pad thai and pad see ew staples.</description>
+    </item>
+    
+  </channel>
+</rss>

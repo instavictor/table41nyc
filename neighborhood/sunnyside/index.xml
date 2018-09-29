@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sunnyside on Table41NYC</title>
+    <link>https://www.table41nyc.com/neighborhood/sunnyside/</link>
+    <description>Recent content in Sunnyside on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Sep 2018 14:45:34 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/neighborhood/sunnyside/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pelicana Chicken</title>
+      <link>https://www.table41nyc.com/posts/korean/pelicana-chicken/</link>
+      <pubDate>Sun, 16 Sep 2018 14:45:34 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/korean/pelicana-chicken/</guid>
+      <description>Korean wings. They have ice cream beer which was a gimmick. It&amp;rsquo;s mediocre at best. They do give you these finger &amp;ldquo;condom&amp;rdquo; looking things to handle the chicken.</description>
+    </item>
+    
+  </channel>
+</rss>

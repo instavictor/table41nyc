@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uws on Table41NYC</title>
+    <link>https://www.table41nyc.com/neighborhood/uws/</link>
+    <description>Recent content in Uws on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Sep 2018 20:42:46 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/neighborhood/uws/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jin Ramen</title>
+      <link>https://www.table41nyc.com/posts/ramen/jin-ramen/</link>
+      <pubDate>Sun, 16 Sep 2018 20:42:46 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/ramen/jin-ramen/</guid>
+      <description>This place was decent. Had to wait about 20 minutes. I think price wise it&amp;rsquo;s slightly cheaper than East Village stuff.</description>
+    </item>
+    
+    <item>
+      <title>Maison Pickle</title>
+      <link>https://www.table41nyc.com/posts/new-american/maison-pickle/</link>
+      <pubDate>Sun, 16 Sep 2018 17:59:44 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/new-american/maison-pickle/</guid>
+      <description>French Dip is really good here, espeically the au jus drippings.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flushing on Table41NYC</title>
+    <link>https://www.table41nyc.com/neighborhood/flushing/</link>
+    <description>Recent content in Flushing on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Sep 2018 23:27:10 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/neighborhood/flushing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ChaTime</title>
+      <link>https://www.table41nyc.com/posts/desserts/chatime/</link>
+      <pubDate>Sun, 09 Sep 2018 23:27:10 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/desserts/chatime/</guid>
+      <description>Passion fruit green tea was just OK.</description>
+    </item>
+    
+    <item>
+      <title>Kulu Desserts</title>
+      <link>https://www.table41nyc.com/posts/desserts/kulu-desserts/</link>
+      <pubDate>Sun, 09 Sep 2018 23:25:55 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/desserts/kulu-desserts/</guid>
+      <description>It&amp;rsquo;s ok. Lots of durian stuff. Black sesame wasn&amp;rsquo;t that great.</description>
+    </item>
+    
+    <item>
+      <title>Prince Tea House</title>
+      <link>https://www.table41nyc.com/posts/desserts/prince-tea-house/</link>
+      <pubDate>Sun, 09 Sep 2018 23:18:16 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/desserts/prince-tea-house/</guid>
+      <description>Good crepes and milk tea. The decor is interesting here.</description>
+    </item>
+    
+    <item>
+      <title>New May Wah 359</title>
+      <link>https://www.table41nyc.com/posts/chinese/new-may-wah-359/</link>
+      <pubDate>Sun, 09 Sep 2018 22:32:49 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/chinese/new-may-wah-359/</guid>
+      <description>Taiwanese food. Rice cakes good. Everything else eh. Cash only.
+This place is PERMA closed.</description>
+    </item>
+    
+    <item>
+      <title>Nan Xiang Xiao Long Bao</title>
+      <link>https://www.table41nyc.com/posts/chinese/nan-xiang-xiao-long-bao/</link>
+      <pubDate>Sun, 09 Sep 2018 22:29:28 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/chinese/nan-xiang-xiao-long-bao/</guid>
+      <description>XLB was ok. Scallion cakes were good. Beef wrap was good. Cash only.</description>
+    </item>
+    
+  </channel>
+</rss>

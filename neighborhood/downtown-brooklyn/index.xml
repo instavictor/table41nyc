@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Downtown Brooklyn on Table41NYC</title>
+    <link>https://www.table41nyc.com/neighborhood/downtown-brooklyn/</link>
+    <description>Recent content in Downtown Brooklyn on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Sep 2018 22:25:22 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/neighborhood/downtown-brooklyn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Yaso Tangbao</title>
+      <link>https://www.table41nyc.com/posts/chinese/yaso-tangbao/</link>
+      <pubDate>Sun, 09 Sep 2018 22:25:22 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/chinese/yaso-tangbao/</guid>
+      <description>This place was pretty good for the price. The soup dumplings had the authentice black vinegar sauce with ginger. They were open on Thanksgiving.</description>
+    </item>
+    
+  </channel>
+</rss>

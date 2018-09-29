@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scotch on Table41NYC</title>
+    <link>https://www.table41nyc.com/cuisine/scotch/</link>
+    <description>Recent content in Scotch on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Sep 2018 01:23:20 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/cuisine/scotch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Copper and Oak</title>
+      <link>https://www.table41nyc.com/posts/bars/copper-and-oak/</link>
+      <pubDate>Sun, 09 Sep 2018 01:23:20 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/bars/copper-and-oak/</guid>
+      <description>This place is cool. All scotches and nice ambiance.</description>
+    </item>
+    
+  </channel>
+</rss>

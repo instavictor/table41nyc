@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Union Square on Table41NYC</title>
+    <link>https://www.table41nyc.com/neighborhood/union-square/</link>
+    <description>Recent content in Union Square on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Sep 2018 21:44:25 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/neighborhood/union-square/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Casa Mono</title>
+      <link>https://www.table41nyc.com/posts/spanish/casa-mono/</link>
+      <pubDate>Sun, 16 Sep 2018 21:44:25 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/spanish/casa-mono/</guid>
+      <description>Stumbled into here while drunk. I recall it was pretty good, but I don&amp;rsquo;t remember what was ordered.
+Had no idea this had Michelin stars either. When I walked in, it was all empty.</description>
+    </item>
+    
+    <item>
+      <title>Barn Joo</title>
+      <link>https://www.table41nyc.com/posts/korean/barn-joo/</link>
+      <pubDate>Sun, 16 Sep 2018 14:57:23 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/korean/barn-joo/</guid>
+      <description>Pretty good Korean American bar food outside of k-town. Not too expensive I think.</description>
+    </item>
+    
+    <item>
+      <title>Tsurutontan</title>
+      <link>https://www.table41nyc.com/posts/japanese/tsurutontan/</link>
+      <pubDate>Sun, 16 Sep 2018 14:29:49 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/japanese/tsurutontan/</guid>
+      <description>Pretty decent udon. Got the kimchi jigae variant. A bit sweet and would try something else. Came back here another time, and the basic variant was probably better than everything else. Some of the fancier udon variants are just not that great.</description>
+    </item>
+    
+    <item>
+      <title>La Maison Du Croque Monsieur</title>
+      <link>https://www.table41nyc.com/posts/french/la-maison-du-croque-monsieur/</link>
+      <pubDate>Sat, 15 Sep 2018 15:00:14 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/french/la-maison-du-croque-monsieur/</guid>
+      <description>The croque monsieur was mediocre at best.</description>
+    </item>
+    
+    <item>
+      <title>Dear Irving</title>
+      <link>https://www.table41nyc.com/posts/bars/dear-irving/</link>
+      <pubDate>Sun, 09 Sep 2018 01:40:35 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/bars/dear-irving/</guid>
+      <description>Good old boys bar. Think jazzy-ish. Nice place.</description>
+    </item>
+    
+  </channel>
+</rss>

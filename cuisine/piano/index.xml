@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Piano on Table41NYC</title>
+    <link>https://www.table41nyc.com/cuisine/piano/</link>
+    <description>Recent content in Piano on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Sep 2018 01:49:52 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/cuisine/piano/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Ragtrader and Bo Beep Cocktail</title>
+      <link>https://www.table41nyc.com/posts/bars/the-ragtrader-and-bo-beep-cocktail/</link>
+      <pubDate>Sun, 09 Sep 2018 01:49:52 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/bars/the-ragtrader-and-bo-beep-cocktail/</guid>
+      <description>Interesting bar. Bar upstairs is cool. Piano bar downstairs is really KEWL.</description>
+    </item>
+    
+  </channel>
+</rss>

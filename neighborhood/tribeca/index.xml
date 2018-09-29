@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tribeca on Table41NYC</title>
+    <link>https://www.table41nyc.com/neighborhood/tribeca/</link>
+    <description>Recent content in Tribeca on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Sep 2018 22:10:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/neighborhood/tribeca/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jungsik</title>
+      <link>https://www.table41nyc.com/posts/tastings/jungsik/</link>
+      <pubDate>Sun, 16 Sep 2018 22:10:59 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/tastings/jungsik/</guid>
+      <description>This place was really really good. Korean Michelin 2 star and well worth it. Probably one of the best Michelin star restaurants I&amp;rsquo;ve been to in NYC.</description>
+    </item>
+    
+    <item>
+      <title>Hank&#39;s Juicy Beef</title>
+      <link>https://www.table41nyc.com/posts/sandwiches/hanks-juicy-beef/</link>
+      <pubDate>Sun, 16 Sep 2018 21:07:42 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/sandwiches/hanks-juicy-beef/</guid>
+      <description>The only standalone Italian beef sandwich in the city. The other is at the Billsburg Smorgasburg and is a mess to eat. This place is pretty good for fast food.</description>
+    </item>
+    
+    <item>
+      <title>Marc Forgione</title>
+      <link>https://www.table41nyc.com/posts/new-american/marc-forgione/</link>
+      <pubDate>Sun, 16 Sep 2018 17:57:37 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/new-american/marc-forgione/</guid>
+      <description>My FAVORITE &amp;hellip; Chili Lobster.</description>
+    </item>
+    
+  </channel>
+</rss>

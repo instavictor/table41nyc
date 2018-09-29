@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mediterranean on Table41NYC</title>
+    <link>https://www.table41nyc.com/cuisine/mediterranean/</link>
+    <description>Recent content in Mediterranean on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Sep 2018 17:43:20 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/cuisine/mediterranean/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Miznon</title>
+      <link>https://www.table41nyc.com/posts/mediterranean/miznon/</link>
+      <pubDate>Sun, 16 Sep 2018 17:43:20 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/mediterranean/miznon/</guid>
+      <description>This place sucks a lot, and it&amp;rsquo;s expensive. Food was just eh. I got the steak pita, and I was still very hungry. Overrated.</description>
+    </item>
+    
+    <item>
+      <title>Dizengoff</title>
+      <link>https://www.table41nyc.com/posts/mediterranean/dizengoff/</link>
+      <pubDate>Sun, 16 Sep 2018 17:41:20 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/mediterranean/dizengoff/</guid>
+      <description>This place was surprisingly good. The shakshooka and bread was really good. Too bad it&amp;rsquo;s CLOSED.</description>
+    </item>
+    
+  </channel>
+</rss>

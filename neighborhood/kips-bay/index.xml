@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kips Bay on Table41NYC</title>
+    <link>https://www.table41nyc.com/neighborhood/kips-bay/</link>
+    <description>Recent content in Kips Bay on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Sep 2018 18:26:23 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/neighborhood/kips-bay/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Macchina</title>
+      <link>https://www.table41nyc.com/posts/pizza/macchina/</link>
+      <pubDate>Sun, 16 Sep 2018 18:26:23 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/pizza/macchina/</guid>
+      <description>They are known on Instagram for their Burrata pizza which was about $25. It was ok. I wouldn&amp;rsquo;t go out of my way to get it because it literally is just a margarita style pizza with a big piece of burrata cheese in the middle. The burrata wasn&amp;rsquo;t that soft when cut for some reason.</description>
+    </item>
+    
+  </channel>
+</rss>

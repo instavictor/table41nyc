@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Koreatown on Table41NYC</title>
+    <link>https://www.table41nyc.com/neighborhood/koreatown/</link>
+    <description>Recent content in Koreatown on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Sep 2018 15:01:19 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/neighborhood/koreatown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Samwon Garden Bbq</title>
+      <link>https://www.table41nyc.com/posts/korean/samwon-garden-bbq/</link>
+      <pubDate>Sun, 16 Sep 2018 15:01:19 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/korean/samwon-garden-bbq/</guid>
+      <description>Pretty decent Korean BBQ. Also a bit expensive, and not as good as Let&amp;rsquo;s Meat.
+{{ &amp;lt; relref &amp;ldquo;/posts/korean/lets-meat.md&amp;rdquo; &amp;gt;}}</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Meat</title>
+      <link>https://www.table41nyc.com/posts/korean/lets-meat/</link>
+      <pubDate>Sun, 16 Sep 2018 15:00:18 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/korean/lets-meat/</guid>
+      <description>Pretty decent Korean BBQ. A bit expensive, but everything was good.</description>
+    </item>
+    
+    <item>
+      <title>Jongro</title>
+      <link>https://www.table41nyc.com/posts/korean/jongro/</link>
+      <pubDate>Sun, 16 Sep 2018 14:48:50 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/korean/jongro/</guid>
+      <description>Pretty good. No Korean rice wrap, but meat quality was good.</description>
+    </item>
+    
+    <item>
+      <title>Abiko Curry</title>
+      <link>https://www.table41nyc.com/posts/japanese/abiko-curry/</link>
+      <pubDate>Sun, 16 Sep 2018 14:10:20 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/japanese/abiko-curry/</guid>
+      <description>One of my top favorite curry places. Warning: the medium is actually pretty spicy.</description>
+    </item>
+    
+    <item>
+      <title>Grace Street</title>
+      <link>https://www.table41nyc.com/posts/desserts/grace-street/</link>
+      <pubDate>Sun, 09 Sep 2018 23:37:07 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/desserts/grace-street/</guid>
+      <description>Desserts are pretty good, but I don&amp;rsquo;t get why there is always a line here. The donuts were good. The milk tea was just ok.</description>
+    </item>
+    
+  </channel>
+</rss>

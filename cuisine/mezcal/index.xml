@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mezcal on Table41NYC</title>
+    <link>https://www.table41nyc.com/cuisine/mezcal/</link>
+    <description>Recent content in Mezcal on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Sep 2018 01:25:55 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/cuisine/mezcal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mayahuel</title>
+      <link>https://www.table41nyc.com/posts/bars/mayahuel/</link>
+      <pubDate>Sun, 09 Sep 2018 01:25:55 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/bars/mayahuel/</guid>
+      <description>Was a Mezcal speak easy place when I went. Decent mezcal based cocktails. It had a change of ownership recently.</description>
+    </item>
+    
+  </channel>
+</rss>

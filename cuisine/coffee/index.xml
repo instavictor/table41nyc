@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coffee on Table41NYC</title>
+    <link>https://www.table41nyc.com/cuisine/coffee/</link>
+    <description>Recent content in Coffee on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Sep 2018 23:06:37 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/cuisine/coffee/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clever Blend</title>
+      <link>https://www.table41nyc.com/posts/coffee/clever-blend/</link>
+      <pubDate>Sun, 09 Sep 2018 23:06:37 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/coffee/clever-blend/</guid>
+      <description>Bagel was pretty bad. The toasted coconut cold brew wasn&amp;rsquo;t that good.</description>
+    </item>
+    
+    <item>
+      <title>Birch Coffee</title>
+      <link>https://www.table41nyc.com/posts/coffee/birch-coffee/</link>
+      <pubDate>Sun, 09 Sep 2018 23:04:10 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/coffee/birch-coffee/</guid>
+      <description>The cold brew was pretty good, and the Ethiopian beans were good too.</description>
+    </item>
+    
+    <item>
+      <title>Prodigy Coffee</title>
+      <link>https://www.table41nyc.com/posts/coffee/prodigy-coffee/</link>
+      <pubDate>Sun, 09 Sep 2018 23:02:31 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/coffee/prodigy-coffee/</guid>
+      <description>This was just OK. Still prefer Toby&amp;rsquo;s cold brew.</description>
+    </item>
+    
+    <item>
+      <title>Tobys Estate</title>
+      <link>https://www.table41nyc.com/posts/coffee/tobys-estate/</link>
+      <pubDate>Sun, 09 Sep 2018 23:01:05 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/coffee/tobys-estate/</guid>
+      <description>This is pretty good. The Brooklyn Blend beans are good for cold brew and hot.</description>
+    </item>
+    
+    <item>
+      <title>Gimme Coffee</title>
+      <link>https://www.table41nyc.com/posts/coffee/gimme-coffee/</link>
+      <pubDate>Sun, 09 Sep 2018 22:57:57 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/coffee/gimme-coffee/</guid>
+      <description>It&amp;rsquo;s ok. Beans are not as good as Toby&amp;rsquo;s. It&amp;rsquo;s closed though.</description>
+    </item>
+    
+    <item>
+      <title>Brooklyn Ball Factory</title>
+      <link>https://www.table41nyc.com/posts/coffee/brooklyn-ball-factory/</link>
+      <pubDate>Sun, 09 Sep 2018 22:56:49 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/coffee/brooklyn-ball-factory/</guid>
+      <description>Decent place.</description>
+    </item>
+    
+    <item>
+      <title>Mountain Province</title>
+      <link>https://www.table41nyc.com/posts/coffee/mountain-province/</link>
+      <pubDate>Sun, 09 Sep 2018 22:55:43 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/coffee/mountain-province/</guid>
+      <description>I like their latte.</description>
+    </item>
+    
+  </channel>
+</rss>

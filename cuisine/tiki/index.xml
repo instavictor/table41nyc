@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tiki on Table41NYC</title>
+    <link>https://www.table41nyc.com/cuisine/tiki/</link>
+    <description>Recent content in Tiki on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Sep 2018 01:28:40 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/cuisine/tiki/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mother of Pearl</title>
+      <link>https://www.table41nyc.com/posts/bars/mother-of-pearl/</link>
+      <pubDate>Sun, 09 Sep 2018 01:28:40 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/bars/mother-of-pearl/</guid>
+      <description>Interesting decor. They have a shark drink where it has a bunch of blood on it. Notice a bunch of people bring their dates here.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prospect Heights on Table41NYC</title>
+    <link>https://www.table41nyc.com/neighborhood/prospect-heights/</link>
+    <description>Recent content in Prospect Heights on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Sep 2018 18:00:40 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/neighborhood/prospect-heights/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Olmsted</title>
+      <link>https://www.table41nyc.com/posts/new-american/olmsted/</link>
+      <pubDate>Sun, 16 Sep 2018 18:00:40 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/new-american/olmsted/</guid>
+      <description>Was pretty good surprisingly, though the portion sizes were way too small. Ended up eating some rhubarb pie afterwards.</description>
+    </item>
+    
+    <item>
+      <title>Daly Pie</title>
+      <link>https://www.table41nyc.com/posts/desserts/daly-pie/</link>
+      <pubDate>Sun, 09 Sep 2018 23:30:16 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/desserts/daly-pie/</guid>
+      <description>Got the rhubarb, and it was pretty good. I love them rhubarb pies.</description>
+    </item>
+    
+    <item>
+      <title>Ample Hills Creamery</title>
+      <link>https://www.table41nyc.com/posts/desserts/ample-hills-creamery/</link>
+      <pubDate>Sun, 09 Sep 2018 23:28:24 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/desserts/ample-hills-creamery/</guid>
+      <description>Got the pistachio brittle, and it was mediocre. I think Van Leeuwen is better.</description>
+    </item>
+    
+  </channel>
+</rss>

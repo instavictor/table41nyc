@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sandwiches on Table41NYC</title>
+    <link>https://www.table41nyc.com/cuisine/sandwiches/</link>
+    <description>Recent content in Sandwiches on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Sep 2018 21:12:09 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/cuisine/sandwiches/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tal Bagels</title>
+      <link>https://www.table41nyc.com/posts/sandwiches/tal-bagels/</link>
+      <pubDate>Sun, 16 Sep 2018 21:12:09 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/sandwiches/tal-bagels/</guid>
+      <description>Believe it or not, their pastrami was actually better than Pastrami Queen.</description>
+    </item>
+    
+    <item>
+      <title>Katz&#39;s Delicatessen</title>
+      <link>https://www.table41nyc.com/posts/sandwiches/katzs-delicatessen/</link>
+      <pubDate>Sun, 16 Sep 2018 21:11:20 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/sandwiches/katzs-delicatessen/</guid>
+      <description>The best pastrami ever.</description>
+    </item>
+    
+    <item>
+      <title>Roccos Pizza Joint</title>
+      <link>https://www.table41nyc.com/posts/sandwiches/roccos-pizza-joint/</link>
+      <pubDate>Sun, 16 Sep 2018 21:09:08 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/sandwiches/roccos-pizza-joint/</guid>
+      <description>Got the cheesesteak, and I regret it. This place is eh.</description>
+    </item>
+    
+    <item>
+      <title>Hank&#39;s Juicy Beef</title>
+      <link>https://www.table41nyc.com/posts/sandwiches/hanks-juicy-beef/</link>
+      <pubDate>Sun, 16 Sep 2018 21:07:42 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/sandwiches/hanks-juicy-beef/</guid>
+      <description>The only standalone Italian beef sandwich in the city. The other is at the Billsburg Smorgasburg and is a mess to eat. This place is pretty good for fast food.</description>
+    </item>
+    
+    <item>
+      <title>Pastrami Queen</title>
+      <link>https://www.table41nyc.com/posts/sandwiches/pastrami-queen/</link>
+      <pubDate>Sun, 16 Sep 2018 21:05:25 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/sandwiches/pastrami-queen/</guid>
+      <description>Pretty good pastrami. It&amp;rsquo;s no Katz, and it&amp;rsquo;s not filling, but it was good. It&amp;rsquo;s thin sliced meats.</description>
+    </item>
+    
+  </channel>
+</rss>

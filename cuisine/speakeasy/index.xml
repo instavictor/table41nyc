@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speakeasy on Table41NYC</title>
+    <link>https://www.table41nyc.com/cuisine/speakeasy/</link>
+    <description>Recent content in Speakeasy on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Sep 2018 01:35:55 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/cuisine/speakeasy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Attaboy</title>
+      <link>https://www.table41nyc.com/posts/bars/attaboy/</link>
+      <pubDate>Sun, 09 Sep 2018 01:35:55 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/bars/attaboy/</guid>
+      <description>You tell them what ingredients you like in your drink, and they make something magical for you.</description>
+    </item>
+    
+    <item>
+      <title>Employees Only</title>
+      <link>https://www.table41nyc.com/posts/bars/employees-only/</link>
+      <pubDate>Sun, 09 Sep 2018 01:05:32 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/bars/employees-only/</guid>
+      <description>It&amp;rsquo;s alright. Bar gets crowded. Food is decent. It&amp;rsquo;s a has been.</description>
+    </item>
+    
+    <item>
+      <title>Raines Law Room</title>
+      <link>https://www.table41nyc.com/posts/bars/raines-law-room/</link>
+      <pubDate>Sun, 09 Sep 2018 01:01:21 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/bars/raines-law-room/</guid>
+      <description>Cool place. It&amp;rsquo;s in some random building basement, and the couches are comfy. Feels a little noir-ish.</description>
+    </item>
+    
+    <item>
+      <title>Bathtub Gin</title>
+      <link>https://www.table41nyc.com/posts/bars/bathtub-gin/</link>
+      <pubDate>Sat, 25 Aug 2018 14:57:48 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/bars/bathtub-gin/</guid>
+      <description>Went here with a friend for the first time. Saw a random bouncer looking guy standing outside of a coffee shop. There&amp;rsquo;s a door next to the coffee shop that leads into an apartment complex. My friend and I looked at each other. We were thinking we were suppose to open this door, and that this &amp;ldquo;speak easy&amp;rdquo; is somewhere in this apartment complex. We tried to open the door, but it wouldn&amp;rsquo;t turn at all.</description>
+    </item>
+    
+    <item>
+      <title>The Tippler</title>
+      <link>https://www.table41nyc.com/posts/bars/the-tippler/</link>
+      <pubDate>Sat, 25 Aug 2018 14:57:48 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/bars/the-tippler/</guid>
+      <description>Cool place beneath Chelsea Market.</description>
+    </item>
+    
+  </channel>
+</rss>

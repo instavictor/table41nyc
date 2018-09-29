@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Donuts on Table41NYC</title>
+    <link>https://www.table41nyc.com/cuisine/donuts/</link>
+    <description>Recent content in Donuts on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Sep 2018 21:43:44 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/cuisine/donuts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Moe&#39;s Doughs Donut Shop</title>
+      <link>https://www.table41nyc.com/posts/breakfast/moes-doughs-donut-shop/</link>
+      <pubDate>Sun, 09 Sep 2018 21:43:44 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/breakfast/moes-doughs-donut-shop/</guid>
+      <description>So apparently, the head baker from Peter Pans down the street now works here. Regardless, the ECLAIR with the white filling in the middle is really really good. It&amp;rsquo;s not too sweet and CHEAP @ $1.50. Better than DKs. Skip the cake donuts of course.</description>
+    </item>
+    
+    <item>
+      <title>Doughnut Plant</title>
+      <link>https://www.table41nyc.com/posts/breakfast/doughnut-plant/</link>
+      <pubDate>Sun, 09 Sep 2018 21:25:33 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/breakfast/doughnut-plant/</guid>
+      <description>Love it! The creme brulee! The cake donuts are whatevers, but the yeast ones are good. I still love Dough more though.</description>
+    </item>
+    
+  </channel>
+</rss>

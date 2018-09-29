@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bushwick on Table41NYC</title>
+    <link>https://www.table41nyc.com/neighborhood/bushwick/</link>
+    <description>Recent content in Bushwick on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Sep 2018 22:12:38 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/neighborhood/bushwick/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blanca</title>
+      <link>https://www.table41nyc.com/posts/tastings/blanca/</link>
+      <pubDate>Sun, 16 Sep 2018 22:12:38 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/tastings/blanca/</guid>
+      <description>Really good. Definitely get the drink pairing. Michelin 2 star. $300 per person including drinks.</description>
+    </item>
+    
+    <item>
+      <title>Ichiran</title>
+      <link>https://www.table41nyc.com/posts/ramen/ichiran/</link>
+      <pubDate>Sun, 16 Sep 2018 20:18:27 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/ramen/ichiran/</guid>
+      <description>A little expensive but pretty good. It&amp;rsquo;s like a much better version of Shinsengumi.</description>
+    </item>
+    
+    <item>
+      <title>Roberta&#39;s</title>
+      <link>https://www.table41nyc.com/posts/pizza/robertas/</link>
+      <pubDate>Sun, 16 Sep 2018 18:17:37 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/pizza/robertas/</guid>
+      <description>Pizza is pretty good and cheap. Their beer list is pretty good.</description>
+    </item>
+    
+  </channel>
+</rss>

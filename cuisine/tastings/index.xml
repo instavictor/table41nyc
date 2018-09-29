@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tastings on Table41NYC</title>
+    <link>https://www.table41nyc.com/cuisine/tastings/</link>
+    <description>Recent content in Tastings on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Sep 2018 22:12:38 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/cuisine/tastings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blanca</title>
+      <link>https://www.table41nyc.com/posts/tastings/blanca/</link>
+      <pubDate>Sun, 16 Sep 2018 22:12:38 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/tastings/blanca/</guid>
+      <description>Really good. Definitely get the drink pairing. Michelin 2 star. $300 per person including drinks.</description>
+    </item>
+    
+    <item>
+      <title>Jungsik</title>
+      <link>https://www.table41nyc.com/posts/tastings/jungsik/</link>
+      <pubDate>Sun, 16 Sep 2018 22:10:59 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/tastings/jungsik/</guid>
+      <description>This place was really really good. Korean Michelin 2 star and well worth it. Probably one of the best Michelin star restaurants I&amp;rsquo;ve been to in NYC.</description>
+    </item>
+    
+    <item>
+      <title>Blue Hill</title>
+      <link>https://www.table41nyc.com/posts/tastings/blue-hill/</link>
+      <pubDate>Sun, 16 Sep 2018 22:09:53 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/tastings/blue-hill/</guid>
+      <description>Place is pretty good but veggie centric. Pretty much farm to table kind of foods.</description>
+    </item>
+    
+    <item>
+      <title>Delaware and Hudson</title>
+      <link>https://www.table41nyc.com/posts/tastings/delaware-and-hudson/</link>
+      <pubDate>Sun, 16 Sep 2018 22:08:24 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/tastings/delaware-and-hudson/</guid>
+      <description>2016 and 2017 Michelin 1 star. Tasting only for dinner. Atlantic food. Fantastic.</description>
+    </item>
+    
+    <item>
+      <title>Yuji Ramen</title>
+      <link>https://www.table41nyc.com/posts/ramen/yuji-ramen/</link>
+      <pubDate>Sun, 16 Sep 2018 20:20:55 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/ramen/yuji-ramen/</guid>
+      <description>Ramen omakase. Really good. Everything is homemade. $130 per person.</description>
+    </item>
+    
+    <item>
+      <title>Marc Forgione</title>
+      <link>https://www.table41nyc.com/posts/new-american/marc-forgione/</link>
+      <pubDate>Sun, 16 Sep 2018 17:57:37 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/new-american/marc-forgione/</guid>
+      <description>My FAVORITE &amp;hellip; Chili Lobster.</description>
+    </item>
+    
+    <item>
+      <title>Atoboy</title>
+      <link>https://www.table41nyc.com/posts/korean/atoboy/</link>
+      <pubDate>Sun, 16 Sep 2018 14:52:13 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/korean/atoboy/</guid>
+      <description>Really good for the price point. $39 tasting 3 courses, no tip, and no dessert.</description>
+    </item>
+    
+  </channel>
+</rss>

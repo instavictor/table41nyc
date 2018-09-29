@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mexican on Table41NYC</title>
+    <link>https://www.table41nyc.com/cuisine/mexican/</link>
+    <description>Recent content in Mexican on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Sep 2018 17:49:28 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/cuisine/mexican/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Casa Enrique</title>
+      <link>https://www.table41nyc.com/posts/mexican/casa-enrique/</link>
+      <pubDate>Sun, 16 Sep 2018 17:49:28 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/mexican/casa-enrique/</guid>
+      <description>Michelin 1 star restaurant for Mexican. Place isn&amp;rsquo;t great, but it&amp;rsquo;s not bad. Tacos are WAY too pricey at $6 a piece for such a tiny thing.</description>
+    </item>
+    
+    <item>
+      <title>Waheyo</title>
+      <link>https://www.table41nyc.com/posts/mexican/waheyo/</link>
+      <pubDate>Sun, 16 Sep 2018 17:48:23 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/mexican/waheyo/</guid>
+      <description>Interesting Chipotle/Dos Toros style but feels a little more ghetto? Food was ok but cheap.</description>
+    </item>
+    
+    <item>
+      <title>Tacombi</title>
+      <link>https://www.table41nyc.com/posts/mexican/tacombi/</link>
+      <pubDate>Sun, 16 Sep 2018 17:47:13 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/mexican/tacombi/</guid>
+      <description>Pretty decent tacos albeit a little expensive. Al Pastor was probably my favorite. Guac was ok too. They have several locations now.</description>
+    </item>
+    
+    <item>
+      <title>Lucky Luna</title>
+      <link>https://www.table41nyc.com/posts/mexican/lucky-luna/</link>
+      <pubDate>Sun, 16 Sep 2018 17:45:59 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/mexican/lucky-luna/</guid>
+      <description>Got the pozole here which seems to be uncommon here in NYC. Spicy, but pretty good.
+Too bad it&amp;rsquo;s CLOSED.</description>
+    </item>
+    
+    <item>
+      <title>Los Tacos</title>
+      <link>https://www.table41nyc.com/posts/mexican/los-tacos/</link>
+      <pubDate>Sun, 16 Sep 2018 17:44:42 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/mexican/los-tacos/</guid>
+      <description>Pretty good for NYC. Still cannot compare to LA.</description>
+    </item>
+    
+  </channel>
+</rss>

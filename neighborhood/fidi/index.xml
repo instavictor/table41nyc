@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fidi on Table41NYC</title>
+    <link>https://www.table41nyc.com/neighborhood/fidi/</link>
+    <description>Recent content in Fidi on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Sep 2018 17:36:53 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/neighborhood/fidi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adrienne&#39;s Pizza Bar</title>
+      <link>https://www.table41nyc.com/posts/pizza/adriennes-pizza-bar/</link>
+      <pubDate>Sat, 29 Sep 2018 17:36:53 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/pizza/adriennes-pizza-bar/</guid>
+      <description>Was ok. Nothing too memorable. Got the pizza with proscuitto on top. I think they should&amp;rsquo;ve cut it into smaller pieces.</description>
+    </item>
+    
+    <item>
+      <title>Delmonico</title>
+      <link>https://www.table41nyc.com/posts/steak/delmonico/</link>
+      <pubDate>Sun, 16 Sep 2018 22:04:09 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/steak/delmonico/</guid>
+      <description>Got the Delmonico steak. I like the char on this, but the steak kindi of sucked because it wasn&amp;rsquo;t flavorful nor fatty. Cream of spinach was just OK.</description>
+    </item>
+    
+    <item>
+      <title>Kuu Ramen</title>
+      <link>https://www.table41nyc.com/posts/ramen/kuu-ramen/</link>
+      <pubDate>Sun, 16 Sep 2018 20:31:18 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/ramen/kuu-ramen/</guid>
+      <description>Not good at all. Was near WTC.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jewish on Table41NYC</title>
+    <link>https://www.table41nyc.com/cuisine/jewish/</link>
+    <description>Recent content in Jewish on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Sep 2018 21:23:40 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/cuisine/jewish/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Russ &amp; Daughters Cafe</title>
+      <link>https://www.table41nyc.com/posts/breakfast/russ-and-daughters-cafe/</link>
+      <pubDate>Sun, 09 Sep 2018 21:23:40 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/breakfast/russ-and-daughters-cafe/</guid>
+      <description>This place was pretty good, but I feel it&amp;rsquo;s overrated. It has a lot of lox stuff. I didn&amp;rsquo;t care much for it, but then again I don&amp;rsquo;t care about lox either.</description>
+    </item>
+    
+  </channel>
+</rss>

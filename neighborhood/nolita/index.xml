@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nolita on Table41NYC</title>
+    <link>https://www.table41nyc.com/neighborhood/nolita/</link>
+    <description>Recent content in Nolita on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Sep 2018 13:58:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/neighborhood/nolita/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Sosta</title>
+      <link>https://www.table41nyc.com/posts/italian/the-sosta/</link>
+      <pubDate>Sun, 16 Sep 2018 13:58:59 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/italian/the-sosta/</guid>
+      <description>This place was ok. Pasta was good, but it needs protein. The meat cheese board was just ok.</description>
+    </item>
+    
+    <item>
+      <title>Cherche Midi</title>
+      <link>https://www.table41nyc.com/posts/french/cherche-midi/</link>
+      <pubDate>Sat, 15 Sep 2018 15:09:54 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/french/cherche-midi/</guid>
+      <description>Same owner as the Minetta Tavern. Great for the price. I liked teh suckling pork becuase it was straight up fat with crispy skin. Got the whole fish, and it was great too.
+Only problem is it is CLOSED.</description>
+    </item>
+    
+    <item>
+      <title>Egg Shop</title>
+      <link>https://www.table41nyc.com/posts/breakfast/egg-shop/</link>
+      <pubDate>Sun, 09 Sep 2018 21:35:41 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/breakfast/egg-shop/</guid>
+      <description>This place sucks, is pricey, and is extremely overrated. I don&amp;rsquo;t understand why this place has so many people. $18 for a egg on top of salad with fried chicken.</description>
+    </item>
+    
+  </channel>
+</rss>

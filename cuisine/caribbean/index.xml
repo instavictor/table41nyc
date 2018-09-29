@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Caribbean on Table41NYC</title>
+    <link>https://www.table41nyc.com/cuisine/caribbean/</link>
+    <description>Recent content in Caribbean on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Sep 2018 22:18:43 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/cuisine/caribbean/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pearls</title>
+      <link>https://www.table41nyc.com/posts/caribbean/pearls/</link>
+      <pubDate>Sun, 09 Sep 2018 22:18:43 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/caribbean/pearls/</guid>
+      <description>Caribbean &amp;ldquo;pita&amp;rdquo; pocket stuff is pretty good. The chips with guac and shrimp +1.</description>
+    </item>
+    
+  </channel>
+</rss>

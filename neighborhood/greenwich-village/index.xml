@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Greenwich Village on Table41NYC</title>
+    <link>https://www.table41nyc.com/neighborhood/greenwich-village/</link>
+    <description>Recent content in Greenwich Village on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Sep 2018 22:09:53 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/neighborhood/greenwich-village/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blue Hill</title>
+      <link>https://www.table41nyc.com/posts/tastings/blue-hill/</link>
+      <pubDate>Sun, 16 Sep 2018 22:09:53 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/tastings/blue-hill/</guid>
+      <description>Place is pretty good but veggie centric. Pretty much farm to table kind of foods.</description>
+    </item>
+    
+    <item>
+      <title>Mi Ne Sushi</title>
+      <link>https://www.table41nyc.com/posts/japanese/mi-ne-sushi/</link>
+      <pubDate>Sun, 16 Sep 2018 14:35:21 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/japanese/mi-ne-sushi/</guid>
+      <description>Just ok and also cheap sushi. Not great. Don&amp;rsquo;t trust people when they say this is good sushi.</description>
+    </item>
+    
+    <item>
+      <title>Shuko</title>
+      <link>https://www.table41nyc.com/posts/japanese/shuko/</link>
+      <pubDate>Sun, 16 Sep 2018 14:22:07 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/japanese/shuko/</guid>
+      <description>Really good. Got the kaiseki ($175), and they gave a lot of sushi pieces. The dessert, rhubarb sorbet, was really good.</description>
+    </item>
+    
+    <item>
+      <title>Minetta Tavern</title>
+      <link>https://www.table41nyc.com/posts/burgers/minetta-tavern/</link>
+      <pubDate>Sun, 09 Sep 2018 22:07:54 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/burgers/minetta-tavern/</guid>
+      <description>The black label burger is what to get here. It&amp;rsquo;s good. I do want to try the 4 Charles one sometime.</description>
+    </item>
+    
+  </channel>
+</rss>

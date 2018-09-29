@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vietnamese on Table41NYC</title>
+    <link>https://www.table41nyc.com/cuisine/vietnamese/</link>
+    <description>Recent content in Vietnamese on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Sep 2018 22:15:12 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/cuisine/vietnamese/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Brooklyn Banh Mi</title>
+      <link>https://www.table41nyc.com/posts/vietnamese/brooklyn-banh-mi/</link>
+      <pubDate>Sun, 16 Sep 2018 22:15:12 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/vietnamese/brooklyn-banh-mi/</guid>
+      <description>Best banh mi I&amp;rsquo;ve had so far in New York. Cheap too.
+But this place is CLOSED.</description>
+    </item>
+    
+    <item>
+      <title>CoBa</title>
+      <link>https://www.table41nyc.com/posts/vietnamese/coba/</link>
+      <pubDate>Sun, 16 Sep 2018 22:14:06 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/vietnamese/coba/</guid>
+      <description>Their pho + banhmi combo $12.50 is OK for lunch.</description>
+    </item>
+    
+  </channel>
+</rss>

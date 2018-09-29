@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brazilian on Table41NYC</title>
+    <link>https://www.table41nyc.com/cuisine/brazilian/</link>
+    <description>Recent content in Brazilian on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Sep 2018 17:28:09 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/cuisine/brazilian/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Berimbau Do Brasil</title>
+      <link>https://www.table41nyc.com/posts/brazilian/berimbau-do-brasil/</link>
+      <pubDate>Sat, 29 Sep 2018 17:28:09 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/brazilian/berimbau-do-brasil/</guid>
+      <description>The feijoada was pretty good. The picanha was interesting in that it was super soft. Not quite what I was expecting.</description>
+    </item>
+    
+  </channel>
+</rss>

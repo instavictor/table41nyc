@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Red Hook on Table41NYC</title>
+    <link>https://www.table41nyc.com/neighborhood/red-hook/</link>
+    <description>Recent content in Red Hook on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Sep 2018 17:24:17 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/neighborhood/red-hook/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hometown Bbq</title>
+      <link>https://www.table41nyc.com/posts/bbq/hometown-bbq/</link>
+      <pubDate>Sun, 09 Sep 2018 17:24:17 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/bbq/hometown-bbq/</guid>
+      <description>This is butterly delicious. A bit of a trek to get to, but worth it in a party and if you&amp;rsquo;re bored. The bacon&amp;rsquo;s really good.</description>
+    </item>
+    
+  </channel>
+</rss>
