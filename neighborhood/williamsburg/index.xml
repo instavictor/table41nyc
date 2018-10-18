@@ -6,10 +6,19 @@
     <description>Recent content in Williamsburg on Table41NYC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Sep 2018 22:15:12 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 11 Oct 2018 22:13:19 -0400</lastBuildDate>
     
 	<atom:link href="https://www.table41nyc.com/neighborhood/williamsburg/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chimu Bistro</title>
+      <link>https://www.table41nyc.com/posts/peruvian/chimu-bistro/</link>
+      <pubDate>Thu, 11 Oct 2018 22:13:19 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/peruvian/chimu-bistro/</guid>
+      <description>The ceviche was good, but the lomo saltado was surprisingly pretty good. Beef slices were tender.</description>
+    </item>
     
     <item>
       <title>Brooklyn Banh Mi</title>
@@ -226,15 +235,6 @@ But this place is CLOSED.</description>
       
       <guid>https://www.table41nyc.com/posts/chinese/m-noodle-shop/</guid>
       <description>Terrible but cheap Chinese. The pork chop on top of rice was terrible.</description>
-    </item>
-    
-    <item>
-      <title>Vanessas Dumpling House</title>
-      <link>https://www.table41nyc.com/posts/chinese/vanessas-dumpling-house/</link>
-      <pubDate>Sun, 09 Sep 2018 22:22:02 -0400</pubDate>
-      
-      <guid>https://www.table41nyc.com/posts/chinese/vanessas-dumpling-house/</guid>
-      <description>Pretty good. Pass on the beef noodle though.</description>
     </item>
     
   </channel>

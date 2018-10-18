@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.table41nyc.com/posts/korean/yoon-haeundae-galbi/</loc>
+    <lastmod>2018-10-17T22:08:34-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.table41nyc.com/posts/sandwiches/pastrami-plaza/</loc>
+    <lastmod>2018-10-16T22:16:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.table41nyc.com/posts/peruvian/chimu-bistro/</loc>
+    <lastmod>2018-10-11T22:13:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.table41nyc.com/posts/ramen/tamashii-ramen/</loc>
+    <lastmod>2018-10-07T22:15:20-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.table41nyc.com/posts/japanese/dokodemo/</loc>
+    <lastmod>2018-10-05T22:10:57-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.table41nyc.com/posts/pizza/adriennes-pizza-bar/</loc>
     <lastmod>2018-09-29T17:36:53-04:00</lastmod>
   </url>
@@ -1213,6 +1238,12 @@
   </url>
   
   <url>
+    <loc>https://www.table41nyc.com/neighborhood/astoria/</loc>
+    <lastmod>2018-10-07T22:15:20-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.table41nyc.com/cuisine/bars/</loc>
     <lastmod>2018-09-09T01:53:57-04:00</lastmod>
     <priority>0</priority>
@@ -1243,7 +1274,7 @@
   
   <url>
     <loc>https://www.table41nyc.com/borough/brooklyn/</loc>
-    <lastmod>2018-09-16T22:08:24-04:00</lastmod>
+    <lastmod>2018-10-11T22:13:19-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1327,7 +1358,7 @@
   
   <url>
     <loc>https://www.table41nyc.com/neighborhood/east-village/</loc>
-    <lastmod>2018-09-16T22:02:06-04:00</lastmod>
+    <lastmod>2018-10-05T22:10:57-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1393,7 +1424,7 @@
   
   <url>
     <loc>https://www.table41nyc.com/cuisine/japanese/</loc>
-    <lastmod>2018-09-16T14:36:46-04:00</lastmod>
+    <lastmod>2018-10-05T22:10:57-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1411,7 +1442,7 @@
   
   <url>
     <loc>https://www.table41nyc.com/cuisine/korean/</loc>
-    <lastmod>2018-09-29T17:33:50-04:00</lastmod>
+    <lastmod>2018-10-17T22:08:34-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1429,19 +1460,19 @@
   
   <url>
     <loc>https://www.table41nyc.com/neighborhood/lic/</loc>
-    <lastmod>2018-09-16T20:46:35-04:00</lastmod>
+    <lastmod>2018-10-16T22:16:47-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.table41nyc.com/cuisine/lomo-saltado/</loc>
-    <lastmod>2018-09-16T16:36:49-04:00</lastmod>
+    <lastmod>2018-10-11T22:13:19-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.table41nyc.com/borough/manhattan/</loc>
-    <lastmod>2018-09-29T17:36:53-04:00</lastmod>
+    <lastmod>2018-10-17T22:08:34-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1471,13 +1502,13 @@
   
   <url>
     <loc>https://www.table41nyc.com/neighborhood/midtown-west/</loc>
-    <lastmod>2018-09-16T22:05:59-04:00</lastmod>
+    <lastmod>2018-10-17T22:08:34-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.table41nyc.com/neighborhood/</loc>
-    <lastmod>2018-09-16T22:12:38-04:00</lastmod>
+    <lastmod>2018-10-07T22:15:20-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1495,7 +1526,7 @@
   
   <url>
     <loc>https://www.table41nyc.com/cuisine/peruvian/</loc>
-    <lastmod>2018-09-16T16:36:49-04:00</lastmod>
+    <lastmod>2018-10-11T22:13:19-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1513,7 +1544,7 @@
   
   <url>
     <loc>https://www.table41nyc.com/posts/</loc>
-    <lastmod>2018-09-29T17:36:53-04:00</lastmod>
+    <lastmod>2018-10-17T22:08:34-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1525,13 +1556,13 @@
   
   <url>
     <loc>https://www.table41nyc.com/borough/queens/</loc>
-    <lastmod>2018-09-16T20:46:35-04:00</lastmod>
+    <lastmod>2018-10-16T22:16:47-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.table41nyc.com/cuisine/ramen/</loc>
-    <lastmod>2018-09-16T20:49:41-04:00</lastmod>
+    <lastmod>2018-10-07T22:15:20-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1543,7 +1574,7 @@
   
   <url>
     <loc>https://www.table41nyc.com/cuisine/sandwiches/</loc>
-    <lastmod>2018-09-16T21:12:09-04:00</lastmod>
+    <lastmod>2018-10-16T22:16:47-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1591,7 +1622,7 @@
   
   <url>
     <loc>https://www.table41nyc.com/</loc>
-    <lastmod>2018-09-29T17:36:53-04:00</lastmod>
+    <lastmod>2018-10-17T22:08:34-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1651,7 +1682,7 @@
   
   <url>
     <loc>https://www.table41nyc.com/neighborhood/williamsburg/</loc>
-    <lastmod>2018-09-16T22:15:12-04:00</lastmod>
+    <lastmod>2018-10-11T22:13:19-04:00</lastmod>
     <priority>0</priority>
   </url>
   

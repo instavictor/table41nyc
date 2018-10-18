@@ -6,10 +6,19 @@
     <description>Recent content in Brooklyn on Table41NYC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Sep 2018 22:08:24 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 11 Oct 2018 22:13:19 -0400</lastBuildDate>
     
 	<atom:link href="https://www.table41nyc.com/borough/brooklyn/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chimu Bistro</title>
+      <link>https://www.table41nyc.com/posts/peruvian/chimu-bistro/</link>
+      <pubDate>Thu, 11 Oct 2018 22:13:19 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/peruvian/chimu-bistro/</guid>
+      <description>The ceviche was good, but the lomo saltado was surprisingly pretty good. Beef slices were tender.</description>
+    </item>
     
     <item>
       <title>Delaware and Hudson</title>
@@ -227,15 +236,6 @@ Too bad it&amp;rsquo;s CLOSED.</description>
       
       <guid>https://www.table41nyc.com/posts/fried-chicken/rider/</guid>
       <description>Was actually really good, and was one of the first places I went to when I moved here.</description>
-    </item>
-    
-    <item>
-      <title>Ample Hills Creamery</title>
-      <link>https://www.table41nyc.com/posts/desserts/ample-hills-creamery/</link>
-      <pubDate>Sun, 09 Sep 2018 23:28:24 -0400</pubDate>
-      
-      <guid>https://www.table41nyc.com/posts/desserts/ample-hills-creamery/</guid>
-      <description>Got the pistachio brittle, and it was mediocre. I think Van Leeuwen is better.</description>
     </item>
     
   </channel>

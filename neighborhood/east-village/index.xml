@@ -6,10 +6,19 @@
     <description>Recent content in East Village on Table41NYC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Sep 2018 22:02:06 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 05 Oct 2018 22:10:57 -0400</lastBuildDate>
     
 	<atom:link href="https://www.table41nyc.com/neighborhood/east-village/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dokodemo</title>
+      <link>https://www.table41nyc.com/posts/japanese/dokodemo/</link>
+      <pubDate>Fri, 05 Oct 2018 22:10:57 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/japanese/dokodemo/</guid>
+      <description>Decent Japanese snack place with okonomiyaki and octopus balls. But that&amp;rsquo;s about it.</description>
+    </item>
     
     <item>
       <title>Ikinari</title>
@@ -228,15 +237,6 @@ It&amp;rsquo;s probably why this place is PERMA CLOSED.</description>
       
       <guid>https://www.table41nyc.com/posts/burgers/5-napkin-burger/</guid>
       <description>Overrated. I don&amp;rsquo;t get why people think this is good. Rather go to Shake Shack or something else.</description>
-    </item>
-    
-    <item>
-      <title>The Spotted Owl Tavern</title>
-      <link>https://www.table41nyc.com/posts/bars/the-spotted-owl-tavern/</link>
-      <pubDate>Sun, 09 Sep 2018 01:30:49 -0400</pubDate>
-      
-      <guid>https://www.table41nyc.com/posts/bars/the-spotted-owl-tavern/</guid>
-      <description>Ok spot.</description>
     </item>
     
   </channel>

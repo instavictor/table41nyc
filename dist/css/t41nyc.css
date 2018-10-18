@@ -404,6 +404,9 @@ a {
       margin-bottom: 2rem;
       padding-left: 0.5rem;
       border-top: 1px solid #CCC; } }
+  @media only screen and (min-device-width: 1000px) {
+    #sidebar {
+      opacity: 1; } }
   #sidebar .meta {
     display: inline-block;
     font-size: 0.75rem; }

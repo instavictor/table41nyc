@@ -6,10 +6,19 @@
     <description>Recent content in Neighborhood on Table41NYC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Sep 2018 22:12:38 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 07 Oct 2018 22:15:20 -0400</lastBuildDate>
     
 	<atom:link href="https://www.table41nyc.com/neighborhood/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Astoria</title>
+      <link>https://www.table41nyc.com/neighborhood/astoria/</link>
+      <pubDate>Sun, 07 Oct 2018 22:15:20 -0400</pubDate>
+      
+      <guid>https://www.table41nyc.com/neighborhood/astoria/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bushwick</title>
@@ -68,7 +77,7 @@
     <item>
       <title>East Village</title>
       <link>https://www.table41nyc.com/neighborhood/east-village/</link>
-      <pubDate>Sun, 16 Sep 2018 22:02:06 -0400</pubDate>
+      <pubDate>Fri, 05 Oct 2018 22:10:57 -0400</pubDate>
       
       <guid>https://www.table41nyc.com/neighborhood/east-village/</guid>
       <description></description>
@@ -167,7 +176,7 @@
     <item>
       <title>Lic</title>
       <link>https://www.table41nyc.com/neighborhood/lic/</link>
-      <pubDate>Sun, 16 Sep 2018 20:46:35 -0400</pubDate>
+      <pubDate>Tue, 16 Oct 2018 22:16:47 -0400</pubDate>
       
       <guid>https://www.table41nyc.com/neighborhood/lic/</guid>
       <description></description>
@@ -185,7 +194,7 @@
     <item>
       <title>Midtown West</title>
       <link>https://www.table41nyc.com/neighborhood/midtown-west/</link>
-      <pubDate>Sun, 16 Sep 2018 22:05:59 -0400</pubDate>
+      <pubDate>Wed, 17 Oct 2018 22:08:34 -0400</pubDate>
       
       <guid>https://www.table41nyc.com/neighborhood/midtown-west/</guid>
       <description></description>
@@ -224,15 +233,6 @@
       <pubDate>Sat, 15 Sep 2018 15:08:14 -0400</pubDate>
       
       <guid>https://www.table41nyc.com/neighborhood/soho/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sunnyside</title>
-      <link>https://www.table41nyc.com/neighborhood/sunnyside/</link>
-      <pubDate>Sun, 16 Sep 2018 14:45:34 -0400</pubDate>
-      
-      <guid>https://www.table41nyc.com/neighborhood/sunnyside/</guid>
       <description></description>
     </item>
     
