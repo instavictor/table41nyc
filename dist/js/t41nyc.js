@@ -99,24 +99,28 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _scss_index_scss__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_scss_index_scss__WEBPACK_IMPORTED_MODULE_0__);
 
 
-// document.addEventListener('click')
-
 (function() {
     var strip = function(str) {
         return str.replace(/(^\s+|\s+$)/g, '');
     };
 
+    if (screen.width >= 1000) {
+        var content = document.getElementsByClassName('content')[0];
+        var burger = document.getElementById('burger');
+
+        sidebar.className = 'visible';
+        content.className = 'content minimize';
+        burger.className += ' active';
+    }
 
     var handleBurgerClick = function(e) {
         var classNames = e.target.className;
         var content = document.getElementsByClassName('content')[0];
-        var doMaximize = false;
         var sidebar = document.getElementById('sidebar');
 
         if (classNames.indexOf('active') < 0) {
             // was previously unopen
             e.target.className += ' active';
-            doMaximize = true;
             sidebar.className = 'visible';
         } else {
             // was previously open, so close it
