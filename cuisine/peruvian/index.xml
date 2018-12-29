@@ -6,10 +6,19 @@
     <description>Recent content in Peruvian on Table41NYC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Oct 2018 22:13:19 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 07 Dec 2018 19:24:07 -0500</lastBuildDate>
     
 	<atom:link href="https://www.table41nyc.com/cuisine/peruvian/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chirp</title>
+      <link>https://www.table41nyc.com/posts/peruvian/chirp/</link>
+      <pubDate>Fri, 07 Dec 2018 19:24:07 -0500</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/peruvian/chirp/</guid>
+      <description>The lomo saltado was ok. The sauces cost 60 cents extra.</description>
+    </item>
     
     <item>
       <title>Chimu Bistro</title>

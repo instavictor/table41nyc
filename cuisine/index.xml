@@ -32,7 +32,7 @@
     <item>
       <title>Brazilian</title>
       <link>https://www.table41nyc.com/cuisine/brazilian/</link>
-      <pubDate>Sat, 29 Sep 2018 17:28:09 -0400</pubDate>
+      <pubDate>Wed, 26 Dec 2018 18:56:12 -0500</pubDate>
       
       <guid>https://www.table41nyc.com/cuisine/brazilian/</guid>
       <description></description>
@@ -68,7 +68,7 @@
     <item>
       <title>Chinese</title>
       <link>https://www.table41nyc.com/cuisine/chinese/</link>
-      <pubDate>Sun, 21 Oct 2018 13:43:11 -0500</pubDate>
+      <pubDate>Fri, 21 Dec 2018 19:02:35 -0500</pubDate>
       
       <guid>https://www.table41nyc.com/cuisine/chinese/</guid>
       <description></description>
@@ -86,7 +86,7 @@
     <item>
       <title>Desserts</title>
       <link>https://www.table41nyc.com/cuisine/desserts/</link>
-      <pubDate>Mon, 22 Oct 2018 13:45:32 -0500</pubDate>
+      <pubDate>Sun, 02 Dec 2018 19:07:59 -0500</pubDate>
       
       <guid>https://www.table41nyc.com/cuisine/desserts/</guid>
       <description></description>
@@ -102,9 +102,18 @@
     </item>
     
     <item>
+      <title>Fondue</title>
+      <link>https://www.table41nyc.com/cuisine/fondue/</link>
+      <pubDate>Sat, 01 Dec 2018 19:09:49 -0500</pubDate>
+      
+      <guid>https://www.table41nyc.com/cuisine/fondue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>French</title>
       <link>https://www.table41nyc.com/cuisine/french/</link>
-      <pubDate>Sat, 15 Sep 2018 15:12:02 -0400</pubDate>
+      <pubDate>Wed, 19 Dec 2018 19:11:33 -0500</pubDate>
       
       <guid>https://www.table41nyc.com/cuisine/french/</guid>
       <description></description>
@@ -113,7 +122,7 @@
     <item>
       <title>Fried Chicken</title>
       <link>https://www.table41nyc.com/cuisine/fried-chicken/</link>
-      <pubDate>Sun, 16 Sep 2018 13:25:57 -0400</pubDate>
+      <pubDate>Sat, 15 Dec 2018 19:14:46 -0500</pubDate>
       
       <guid>https://www.table41nyc.com/cuisine/fried-chicken/</guid>
       <description></description>
@@ -158,7 +167,7 @@
     <item>
       <title>Lomo Saltado</title>
       <link>https://www.table41nyc.com/cuisine/lomo-saltado/</link>
-      <pubDate>Thu, 11 Oct 2018 22:13:19 -0400</pubDate>
+      <pubDate>Fri, 07 Dec 2018 19:24:07 -0500</pubDate>
       
       <guid>https://www.table41nyc.com/cuisine/lomo-saltado/</guid>
       <description></description>
@@ -203,7 +212,7 @@
     <item>
       <title>Peruvian</title>
       <link>https://www.table41nyc.com/cuisine/peruvian/</link>
-      <pubDate>Thu, 11 Oct 2018 22:13:19 -0400</pubDate>
+      <pubDate>Fri, 07 Dec 2018 19:24:07 -0500</pubDate>
       
       <guid>https://www.table41nyc.com/cuisine/peruvian/</guid>
       <description></description>
@@ -224,15 +233,6 @@
       <pubDate>Sat, 29 Sep 2018 17:36:53 -0400</pubDate>
       
       <guid>https://www.table41nyc.com/cuisine/pizza/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ramen</title>
-      <link>https://www.table41nyc.com/cuisine/ramen/</link>
-      <pubDate>Sun, 07 Oct 2018 22:15:20 -0400</pubDate>
-      
-      <guid>https://www.table41nyc.com/cuisine/ramen/</guid>
       <description></description>
     </item>
     

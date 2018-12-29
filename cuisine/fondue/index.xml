@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fondue on Table41NYC</title>
+    <link>https://www.table41nyc.com/cuisine/fondue/</link>
+    <description>Recent content in Fondue on Table41NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Dec 2018 19:09:49 -0500</lastBuildDate>
+    
+	<atom:link href="https://www.table41nyc.com/cuisine/fondue/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Taureau</title>
+      <link>https://www.table41nyc.com/posts/french/taureau/</link>
+      <pubDate>Sat, 01 Dec 2018 19:09:49 -0500</pubDate>
+      
+      <guid>https://www.table41nyc.com/posts/french/taureau/</guid>
+      <description>This place is CASH ONLY. The chocolate fondu was good, but the cheese that we got was just ok. The meat quality was pretty good with the wine broth.</description>
+    </item>
+    
+  </channel>
+</rss>
