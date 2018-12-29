@@ -481,25 +481,21 @@ a {
   to {
     width: 90%; } }
   @media only screen and (min-device-width: 1000px) {
-    .content {
-      width: 70%; } }
-  .content.minimize {
-    width: 70%; }
-    .content.minimize.animation {
-      -webkit-animation: slideLeft 0.15s ease 0s 1 normal forwards;
-      animation: slideLeft 0.15s ease 0s 1 normal forwards; }
-
-@-webkit-keyframes slideLeft {
-  from {
-    width: 90%; }
-  to {
-    width: 70%; } }
-
-@keyframes slideLeft {
-  from {
-    width: 90%; }
-  to {
-    width: 70%; } }
+    .content.minimize {
+      width: 70%; }
+      .content.minimize.animation {
+        -webkit-animation: slideLeft 0.15s ease 0s 1 normal forwards;
+        animation: slideLeft 0.15s ease 0s 1 normal forwards; }
+    @-webkit-keyframes slideLeft {
+      from {
+        width: 90%; }
+      to {
+        width: 70%; } }
+    @keyframes slideLeft {
+      from {
+        width: 90%; }
+      to {
+        width: 70%; } } }
   .content .title {
     margin-top: 2rem; }
     .content .title .posted {
