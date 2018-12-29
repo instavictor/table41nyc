@@ -464,8 +464,10 @@ a {
     .content .summary a {
       font-size: inherit; }
   .content.maximize {
-    -webkit-animation: slideRight 0.05s ease 0s 1 normal forwards;
-    animation: slideRight 0.05s ease 0s 1 normal forwards; }
+    width: 90%; }
+    .content.maximize.animation {
+      -webkit-animation: slideRight 0.05s ease 0s 1 normal forwards;
+      animation: slideRight 0.05s ease 0s 1 normal forwards; }
 
 @-webkit-keyframes slideRight {
   from {
@@ -482,8 +484,10 @@ a {
     .content {
       width: 70%; } }
   .content.minimize {
-    -webkit-animation: slideLeft 0.15s ease 0s 1 normal forwards;
-    animation: slideLeft 0.15s ease 0s 1 normal forwards; }
+    width: 70%; }
+    .content.minimize.animation {
+      -webkit-animation: slideLeft 0.15s ease 0s 1 normal forwards;
+      animation: slideLeft 0.15s ease 0s 1 normal forwards; }
 
 @-webkit-keyframes slideLeft {
   from {

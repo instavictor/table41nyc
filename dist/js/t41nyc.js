@@ -129,8 +129,7 @@ __webpack_require__.r(__webpack_exports__);
         }
 
         if (content.className.indexOf('minimize') < 0) {
-            content.className = strip(content.className.replace('maximize', ''));
-            content.className += ' minimize';
+            content.className = 'content minimize animation';
         } else {
             content.className = content.className.replace('minimize', 'maximize');
         }
@@ -139,6 +138,7 @@ __webpack_require__.r(__webpack_exports__);
 
     document.getElementById('burger').addEventListener('click', handleBurgerClick);
 }());
+
 
 /***/ }),
 
